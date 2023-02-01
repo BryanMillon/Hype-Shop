@@ -9,7 +9,7 @@
 //   authRequired: false,
 //   auth0Logout: true,
 //   secret: "a long, randomly-generated string stored in env",
-//   baseURL: "http://localhost:3001/auth",
+//   baseURL: "https://hype-shop-back-end.vercel.app/auth",
 //   clientID: "77EjLrKelZj94cQ52cxTE8Zf9jompNiu",
 //   issuerBaseURL: "https://dev-le1rpmhu2ixl7y1b.us.auth0.com",
 // };

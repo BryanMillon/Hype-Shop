@@ -84,7 +84,7 @@ export default function ContactUs() {
                                         name="_next"
                                         // ESto se debe cambiar al momento del DEPLOY
 
-                                        value="https://hype-kappa.vercel.app/"
+                                        value="https://hype-shop.vercel.app/"
 
                                     />
                                 </div>

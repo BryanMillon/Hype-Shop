@@ -40,7 +40,7 @@ Esta aplicacion esta preparada para lo siguiente:
 
 Ademas de varias librerias y dependencias que utilizamos para ciertos detalles, como alertas o NODEMAILER.
 
-## Aplicacion deployada aqui -----> [HypeShop](https://hype-kappa.vercel.app/)
+## Aplicacion deployada aqui -----> [HypeShop](https://hype-shop.vercel.app/)
 
 ## Autores de la aplicacion:
 

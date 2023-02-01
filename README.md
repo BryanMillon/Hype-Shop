@@ -1,32 +1,32 @@
-# HypeShop - E-Commerce de zapatillas.
+# HypeShop - Sneaker E-Commerce
 
-Esta aplicacion esta preparada para lo siguiente:
+## Deployed application here -----> [HypeShop](https://hype-shop.vercel.app/)
 
-- Vista de cliente:
-    - Ver productos.
-    - Ordenarlos.
-    - Filtrarlos.
-    - Buscar algun producto en especifico.
-    - Ver los detalles de algun producto en particular.
-    - Visualizar reviews de cada producto.
-    - Utilizar sistema de cuentas para para realizar pedidos.
-    - Adquirir productos de la manera que se desee.
-    - Realizar review del producto adquirido.
-    
+This application is prepared for the following:
 
-- Vista de Administrador:
-    - Idem a la vista de usuario
-    - Acceso a la dashboard de administrador.
-        - Editar cualquier producto
-        - Visualizacion e interaccion con todos los usuarios registrados en la pagina.
-    - Crear productos para que se visualizen en la pagina.
-    - Acceso a las ordenes de los usuarios.
-        - Ver en detalle la orden que se desee con todos los datos de la compra y el usuario.
-        - Cambiar el estado de la orden (Pagado - Despachado -Entregado).
-        - Filtrar por estado de la orden.
- 
+- Customer view:
+    - View products.
+    - Order them.
+    - Filter them.
+    - Search for a specific product.
+    - View the details of a particular product.
+    - View reviews of each product.
+    - Use an account system to place orders.
+    - Acquire products in the desired manner.
+    - Review the product acquired.
 
-## Tecnologias utilizadas:
+- Admin view:
+    - Same as the user view
+    - Access to the administrator dashboard.
+        - Edit any product
+        - Visualization and interaction with all users registered on the page.
+    - Create products to be displayed on the page.
+    - Access to user orders.
+        - View the desired order in detail with all the purchase and user data.
+        - Change the order status (Paid - Shipped - Delivered).
+        - Filter by order status.
+
+## Technologies used:
 
 - React.js
 - Redux
@@ -34,15 +34,13 @@ Esta aplicacion esta preparada para lo siguiente:
 - PostgreSQL
 - Node.js
 - SQL
-- Express.js 
-- Hojas de estilos en cascada (CSS)
+- Express.js
+- Cascading Style Sheets (CSS)
 - Tailwind
 
-Ademas de varias librerias y dependencias que utilizamos para ciertos detalles, como alertas o NODEMAILER.
+In addition to several libraries and dependencies used for certain details, such as alerts or NODEMAILER.
 
-## Aplicacion deployada aqui -----> [HypeShop](https://hype-shop.vercel.app/)
-
-## Autores de la aplicacion:
+## Application authors:
 
 - Luciano Paniccia
     - [Linkedin](https://www.linkedin.com/in/luciano-paniccia-847868232/)
@@ -57,7 +55,7 @@ Ademas de varias librerias y dependencias que utilizamos para ciertos detalles, 
     - [GitHub](https://github.com/Littyfever)
 
 - Bryan Millon Ojeda
-    - [Linkedin](https://www.linkedin.com/in/bryan-mill%C3%B3n/)
+    - [Linkedin](https://www.linkedin.com/in/bryan-millon/)
     - [GitHub](https://github.com/BryanMillon)
 
 - Mauro Sergio Damian Ferrera

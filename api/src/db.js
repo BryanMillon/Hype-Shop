@@ -5,11 +5,13 @@ const fs = require('fs');
 const path = require('path');
 const pg = require('pg')
 const {
-  PGUSER, PGPASSWORD, PGHOST, PGPORT, PGDATABASE
+  PGUSER, PGPASSWORD, PGHOST, PGPORT, PGDATABASE, DB_USER, DB_PASSWORD, DB_HOST
 } = process.env;
 
 
-const sequelize = new Sequelize(`postgresql://${PGUSER}:${PGPASSWORD}@${PGHOST}:${PGPORT}/${PGDATABASE}`, {
+// const sequelize = new Sequelize(`postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST}/sneakers`
+const sequelize = new Sequelize(`postgresql://${PGUSER}:${PGPASSWORD }@${PGHOST}:${PGPORT}/${PGDATABASE}`
+, {
 
   dialectModule: pg,
 logging: false, // set to console.log to see the raw SQL queries

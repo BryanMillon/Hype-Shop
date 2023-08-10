@@ -1,6 +1,6 @@
 # HypeShop - Sneaker E-Commerce
 
-## Deployed application here -----> [HypeShop](https://hype-shop.vercel.app/)
+## Deployed application here -----> [HypeShop](https://hype-shop.vercel.app/) *THE SITE IS CURRENTLY NOT WORKING BECAUSE THE DATABASE IS DOWN* 
 
 This application is prepared for the following:
 

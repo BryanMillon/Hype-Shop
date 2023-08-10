@@ -2,7 +2,18 @@
 
 ## Deployed application here -----> [HypeShop](https://hype-shop.vercel.app/) *THE SITE IS CURRENTLY NOT WORKING BECAUSE THE DATABASE IS DOWN* 
 
-This application is prepared for the following:
+## Screenshots
+
+![Screenshot of home page](/Screenshots/Home.png)
+![Screenshot of Pagination](/Screenshots/Pagination.png)
+![Screenshot of Details 1](/Screenshots/Detalis1.png)
+![Screenshot of  Details 2](/Screenshots/Details2.png)
+![Screenshot of Reviews](/Screenshots/REVIEWS.png)
+![Screenshot of Cart](/Screenshots/Cart.png)
+![Screenshot of Contact](/Screenshots/Contact.png)
+
+
+## This application is prepared for the following:
 
 - Customer view:
     - View products.
